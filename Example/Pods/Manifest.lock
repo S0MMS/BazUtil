@@ -1,0 +1,16 @@
+PODS:
+  - BazUtil (0.1.0)
+
+DEPENDENCIES:
+  - BazUtil (from `../`)
+
+EXTERNAL SOURCES:
+  BazUtil:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BazUtil: 2440dbd81ab5770ab887f6d19086d52041d9f2fe
+
+PODFILE CHECKSUM: 4eef79dc3a50e1e8f6fc631fe593cc97cd625763
+
+COCOAPODS: 1.8.4

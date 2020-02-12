@@ -1,0 +1,6 @@
+framework module BazUtil {
+  umbrella header "BazUtil-umbrella.h"
+
+  export *
+  module * { export * }
+}

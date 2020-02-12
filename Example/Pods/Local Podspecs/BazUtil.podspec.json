@@ -1,0 +1,26 @@
+{
+  "name": "BazUtil",
+  "version": "0.1.0",
+  "summary": "BazUtil is rad code",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/S0MMS/BazUtil",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "S0MMS": "cshreve@rei.com"
+  },
+  "source": {
+    "git": "https://github.com/S0MMS/BazUtil.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_versions": [
+    "5.0"
+  ],
+  "source_files": "BazUtil/Classes/**/*",
+  "swift_version": "5.0"
+}
