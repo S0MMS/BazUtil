@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BazUtil_Example' do
+  pod 'BazUtil', :path => '../'
+
+  target 'BazUtil_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
